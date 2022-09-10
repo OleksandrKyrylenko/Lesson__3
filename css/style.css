@@ -1,0 +1,31 @@
+* {
+    color: red;
+}
+#header,
+.footer{
+    color: green;
+}
+.header-content > p{
+    color:black;
+}
+.content h3{
+    color:cornflowerblue;
+}
+.content p{
+    color:black;
+}
+.content .kirillivka-text * {
+    color:blue;
+}
+.green {
+    color:green;
+}
+.red {
+    color:red;
+}
+.content .synevir-text {
+    color:blue;
+}
+.list .item .link{
+    color:black;
+}
